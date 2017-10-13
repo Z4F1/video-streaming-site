@@ -1,0 +1,19 @@
+.video {
+    margin: 0 auto;
+    width: 800px;
+    text-align: left;
+}
+
+.video-title {
+    border-bottom: 1px solid orange;
+    padding: 20px;
+}
+
+.video-screen {
+    margin-top: 20px;
+    border: 1px solid lightgray;
+}
+
+.comments {
+    
+}

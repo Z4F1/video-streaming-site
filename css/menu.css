@@ -1,5 +1,6 @@
 .menu {
     border-bottom: 1px solid orange;
+    text-align: right;
 }
 
 .menu-logo {
@@ -8,16 +9,16 @@
 
 .menu-search-input {
     padding: 13px;
-    height: 50px;
-    margin-left: 200px;
+    height: 40px;
     border: 0;
     background-color: lightgray;
     color: white;
+    width: 300px;
 }
 
 .menu-search-submit {
     padding: 13px;
-    height: 50px;
+    height: 40px;
     border: 0;
     background-color: darkorange;
     color: white;
