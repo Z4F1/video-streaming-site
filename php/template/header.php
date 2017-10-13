@@ -13,8 +13,9 @@
             
             <p class="menu-search">
                 <form action="search.php">
-                    <input class="menu-search-input" type="search" name="q" placeholder="Search..">
+                    <input class="menu-search-input" type="search" name="q" placeholder="Search...">
                     <input class="menu-search-submit" type="submit" value="Search">
                 </form>
             </p>
         </div>
+        <div class="container">
