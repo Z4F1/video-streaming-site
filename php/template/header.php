@@ -9,7 +9,7 @@
     <body>
         <div class="menu">
             
-            <p><img class="menu-logo" src="img/logo.png" width="120" height="50"></p>
+            <p><a href="./"><img class="menu-logo" src="img/logo.png" width="120" height="50"></a></p>
             
             <p class="menu-search">
                 <form action="search.php">
